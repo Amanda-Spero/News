@@ -1,0 +1,52 @@
+.col {
+  /* border: solid 3px green; */
+}
+
+ .form-control {
+  border: solid 2px black;
+  width: 310px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 3px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+} 
+
+button {
+  width: 100px;
+  height: 40px;
+  border: blue 2px solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 5px;
+  /* padding-top: 5px; */
+  display: block;
+  margin-left: 40%;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+} 
+
+#byDate {
+  margin-left: 15px;
+}
+
+.radio-buttons-div {
+  /* display: inline; */
+  /* border: solid 3px blue; */
+  padding-bottom: 50px;
+}
+
+.form-check-inline {
+  display: inline;
+  margin-right: 25px;
+}
+
+h2 {
+  padding-bottom: 10px;
+}

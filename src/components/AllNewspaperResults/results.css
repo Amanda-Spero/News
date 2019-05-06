@@ -1,0 +1,6 @@
+.results-div {
+  width: 300px;
+  display: inline-block;
+  border: solid 3px green;
+  margin: 15px;
+}
